@@ -1,2 +1,2 @@
 # dumbster-fire
-if anyone wants to finish this, go on. idc
+### scrapped because making a horrible language nobody will use isn't the most motivating. sorry guys.
